@@ -2,7 +2,13 @@
   text-align: center;
   padding-left: 25%;
 }
+
 .window {
   text-align: center;
   padding-left: 25%;
 }
+
+.redletter {
+  color: red;
+}
+

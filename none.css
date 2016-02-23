@@ -1,7 +1,4 @@
-.picture {
-  text-align: center;
-  padding-left: 25%;
-}
+
 
 .window {
   text-align: center;
@@ -12,9 +9,7 @@
   color: red;
 }
 
-.link {
-  font-size: 20;
-}
+
 
 .link a {
   text-decoration: none;
@@ -29,4 +24,21 @@
 body {
   background-image:url("http://sc01.alicdn.com/kf/HTB1PptxJpXXXXXWXXXXq6xXFXXXL/Piel-colorida-para-la-etiqueta-engomada-de.jpg");
   
+}
+
+.scotch {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.picture {
+  text-align: center;
+  padding-left: 25%;
+  padding-top: 50px;
+}
+
+.link {
+  font-size: 20;
+  text-align: center;
+  padding-top: 50px;
 }
